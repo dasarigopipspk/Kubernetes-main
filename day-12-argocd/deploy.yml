@@ -16,8 +16,8 @@ spec:
     spec:
       terminationGracePeriodSeconds: 30
       containers:
-      - name: swiggy-app
-        image: veeranarni/hotstar:latest
+      - name: swiggy-appgopipspk/gopi
+        image: 
         imagePullPolicy: "Always"
         ports:
         - containerPort: 3000
